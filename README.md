@@ -2,7 +2,7 @@
 Windows C++ Native Keylogger using SetWindowsHookEx
 
 # License
-File: Winsock-PCAP Project
+File: SetWindowsHookEx-Keylogger Project
 Author: Alexander Rymdeko-Harvey(@Killswitch-GUI)
 License: BSD 3-Clause
 
