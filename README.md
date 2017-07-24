@@ -2,9 +2,9 @@
 Windows C++ Native Keylogger using SetWindowsHookEx
 
 # License
-File: SetWindowsHookEx-Keylogger Project
-Author: Alexander Rymdeko-Harvey(@Killswitch-GUI)
-License: BSD 3-Clause
+- File: SetWindowsHookEx-Keylogger Project
+- Author: Alexander Rymdeko-Harvey(@Killswitch-GUI)
+- License: BSD 3-Clause
 
 Copyright (c) 2016, Alexander Rymdeko-Harvey 
 All rights reserved. 
